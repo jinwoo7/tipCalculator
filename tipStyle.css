@@ -1,0 +1,89 @@
+/* General style */
+* {
+    font-family: Verdana;
+}
+
+body {
+    align-content: center;
+    background-color: azure;
+}
+
+.masterWrap {
+    margin: 20px auto;
+    background-color: antiquewhite;
+    text-align: center;
+    width: fit-content;
+    border: 1px solid #0f6ae5;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* text sytle */
+
+h1 {
+    text-align: center;
+}
+
+.tText {
+    font-weight: bold;
+    display: inline;
+    width: 50%;
+}
+
+
+.signature {
+    text-align: right;
+    color: #d8d8d8;
+}
+
+/* Tip Calculator content */
+
+.tBox {
+    outline-color: #0f6ae5;
+    font-weight: bold;
+    display: inline;
+    width: 45%;
+}
+
+.submit {
+    margin: 10px auto;
+    display: block;
+    background-color: #0eb900;
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 7px;
+    border: none;
+    outline-style: none;
+    height: 30px;
+    width: 195px;
+}
+
+.submit:link,
+.submit:visited {
+    background-color: #0eb900;
+}
+
+.submit:hover {
+    background-color: #086500;
+}
+
+.submit:active {
+    color: #acacac;
+}
+
+.box {
+    margin: 0px auto;
+    padding: 20px;
+    resize: none;
+    outline-style: none;
+    border: 2px solid #0f6ae5;
+    border-radius: 4px;
+    color: #0f6ae5;
+    text-align: center;
+    font-size: 15px;
+    width: 150px;
+    height: 75px;
+    overflow: none;
+    resize: none;
+    
+}
