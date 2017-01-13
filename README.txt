@@ -4,7 +4,7 @@ Tip Calculator by Jinwoo is a tip calculator PHP page.
 
 Submitted by: Jinwoo Yom
 
-Time spent: 9 hours spent in total
+Time spent: 13 hours spent in total
 
 ## User Stories
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/wBT2SD6.gif' title='Video Walkthrough-JinwooYom' width='' alt='Video Walkthrough-JinwooYom' />
+<img src='http://i.imgur.com/VdAXIVE.gif' title='Video Walkthrough-JinwooYom' width='' alt='Video Walkthrough-JinwooYom' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
