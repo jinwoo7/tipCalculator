@@ -30,6 +30,14 @@ h1 {
     width: 50%;
 }
 
+.pText {
+    margin: 5px auto;
+}
+
+.splitText {
+    display: inline;
+    width: 25px;
+}
 
 .signature {
     text-align: right;
@@ -73,6 +81,7 @@ h1 {
 
 .box {
     margin: 0px auto;
+    margin-bottom: 10px;
     padding: 20px;
     resize: none;
     outline-style: none;
@@ -82,8 +91,42 @@ h1 {
     text-align: center;
     font-size: 15px;
     width: 150px;
-    height: 75px;
+    height: 65px;
     overflow: none;
     resize: none;
-    
+}
+
+.box2 {
+    margin: 0px auto;
+    padding: 20px;
+    resize: none;
+    outline-style: none;
+    border: 2px solid #e5380f;
+    border-radius: 4px;
+    color: #e5380f;
+    text-align: center;
+    font-size: 15px;
+    width: 150px;
+    height: 95px;
+    overflow: none;
+    resize: none;
+}
+
+.customTip {
+    width: 50px;
+}
+
+.splitDiv {
+    margin: 10px auto;
+}
+
+.split {
+    outline-color: #0f6ae5;
+    font-weight: bold;
+    display: inline;
+    width: 40px;
+}
+
+input[type=number]::-webkit-inner-spin-button {
+    opacity: 1
 }
